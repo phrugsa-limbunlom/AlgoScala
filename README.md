@@ -1,1 +1,1 @@
-## AlgoScala
+## Algorithms with Scala
